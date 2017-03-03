@@ -33,12 +33,6 @@ You need to run a local Ethereum node to use this library.
 npm install web3
 ```
 
-### Meteor.js
-
-```bash
-meteor add ethereum:web3
-```
-
 ### As Browser module
 Bower
 
